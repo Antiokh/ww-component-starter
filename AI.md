@@ -15,6 +15,12 @@ They are stored in:
 
 When the docs mention reference components, inspect them there.
 
+If present, also read:
+
+- [AGENT_LOCAL_REFERENCE.md](./AGENT_LOCAL_REFERENCE.md)
+
+That file is local-only and gitignored. It may contain machine-specific paths or local reference mirrors.
+
 Required reading order:
 
 1. [AGENT_START_HERE.md](./AGENT_START_HERE.md)

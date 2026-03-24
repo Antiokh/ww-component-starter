@@ -6,3 +6,5 @@ yarn-debug.log*
 yarn-error.log*
 .idea/
 .vscode/
+AGENT_LOCAL_REFERENCE.md
+reference-components/

@@ -11,6 +11,12 @@ They live in:
 
 - `https://github.com/weweb-assets`
 
+If present, also read:
+
+- [AGENT_LOCAL_REFERENCE.md](./AGENT_LOCAL_REFERENCE.md)
+
+That file is local-only and gitignored. It can point to local mirrors or cloned reference repos on the current machine.
+
 ## Read in this order
 
 1. [AI.md](./AI.md)
